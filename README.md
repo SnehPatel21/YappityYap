@@ -1,7 +1,8 @@
 # YappityYap
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_INVITE_LINK_HERE) ## Overview
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_INVITE_LINK_HERE) 
+## Overview
 
 [YappityYap] is a fun and interactive Discord bot powered by a Large Language Model. It aims to provide engaging conversations and unique experiences for Discord users. [Briefly describe the main features and purpose of your bot in 1-2 sentences. For example: It can answer questions, generate creative text, play word games, and more!]
 
