@@ -1,0 +1,50 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+sdist/
+venv/
+env/
+.venv/
+local_settings.py
+instance/
+
+# OS-specific files (adjust as needed)
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Dependency files
+requirements.txt  # If you don't want to track changes here directly
+packages/
+node_modules/
+yarn-error.log
+
+# Token and secret files (VERY IMPORTANT TO IGNORE!)
+.env
+config.ini
+secrets.json
+auth.txt
+*.key
+*.pem
+
+# Temporary files and editor backups
+*.swp
+*.swo
+*.bak
+*.tmp
+~$*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Discord bot specific (if you have local data)
+bot_data.db
+user_settings.json
+
+# Add any other project-specific files or directories you want to ignore
